@@ -8,7 +8,7 @@ export default function HeroPage() {
       {/* Foto Profil */}
       <div className="profile">
         <Image
-          src="../image/profile.JPG"  // Ganti dengan path gambar profil kamu
+          src="/image/profile.jpg"  // Ganti dengan path gambar profil kamu
           alt="Profile Picture"
           width={200}
           height={200}
